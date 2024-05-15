@@ -1,28 +1,30 @@
-# Vapou Toolbox Extension
 
-Vapou Toolbox is a versatile browser extension packed with handy tools to enhance your browsing experience.
+# Vapou Toolbox
+
+Browser extension: Toolbox, useful websites
+
+
+
+## Authors
+
+- [@vapoudev](https://www.github.com/vapoudev)
+
 
 ## Screenshots
 
-![Screenshot 1](/imagesgithub/screen1.png)
-![Screenshot 2](/imagesgithub/screen2.png)
+![App Screenshot](https://vapou.fr/imagetoolbox/screen.png)
 
-## Features
-
-- **YouTube Download:** Easily download YouTube videos directly from your browser.
-- **Identity Generator:** Generate random identities for testing or privacy purposes.
-- **PDF Modifier:** Modify PDF documents quickly and conveniently.
-- **Password Generator:** Create strong and secure passwords for your accounts.
-- **Temporary Email:** Generate temporary email addresses for disposable communications.
-- **Other...**
 
 ## Installation
 
-1. **Download the extension:**
-   - Download the theme of your choice.
-   You can find the dark theme at [vapoutoolbox.fr](https://vapoutoolbox.fr).
+1. Download the latest release from the releases section or clone the repository.
+
+2. Manual installation of the extension is required:
+
+   a. Navigate to the extension management page (chrome://extensions/ for Chrome).
    
-2. **Install in Chrome:**
-   - Navigate to the extension management page ([chrome://extensions/](chrome://extensions/) for Chrome).
-   - Ensure Developer mode is enabled.
-   - Click on "Load unpacked extension" and choose the unzipped folder of the extension.
+   b. Ensure Developer mode is enabled.
+   
+   c. Click on "Load unpacked extension" and choose the unzipped folder of the extension.
+
+![Logo](https://vapou.fr/imagetoolbox/logo.png)
